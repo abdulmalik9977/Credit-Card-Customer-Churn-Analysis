@@ -20,6 +20,6 @@ An end-to-end data analysis project focused on analyzing 10,000 credit card cust
 - **Gold Segment Review:** Review the benefits and fee structures of the Gold Card tier to understand why these premium customers are leaving at a higher rate.
 
 ## 📂 Project Structure
-
+- `credit_card_churn.csv`: The primary dataset used for the analysis.
 - `credit_card.sql`: Includes SQL scripts used for preliminary data investigation.
 - `credit_card.pbix`: The final Power BI dashboard file.
