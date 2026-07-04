@@ -4,7 +4,8 @@
 An end-to-end data analysis project focused on analyzing 10,000 credit card customers to identify the root causes of customer churn. By leveraging SQL for data exploration and Power BI for interactive dashboarding, this project provides actionable insights to help optimize customer retention.
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](credit_card_page-0001.jpg)
+![Dashboard Preview](<img width="2075" height="1200" alt="credit_card1_page-0001" src="https://github.com/user-attachments/assets/a76a3ecb-3b1e-48a6-a8ba-51988fd2021a" />
+)
 
 ## 🛠️ Tech Stack & Tools
 - **SQL (MySQL):** Used for data cleaning, aggregation, and hypothesis testing.
